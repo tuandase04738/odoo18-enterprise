@@ -1,0 +1,19 @@
+2025-08-24 12:02:48,635 15160 INFO ? odoo: Odoo version 18.0+e-20250823 
+2025-08-24 12:02:48,635 15160 INFO ? odoo: Using configuration file at D:\Odoo Enterprise\server\odoo.conf 
+2025-08-24 12:02:48,635 15160 INFO ? odoo: addons paths: ['D:\\Odoo Enterprise\\server\\odoo\\addons', 'd:\\odoo enterprise\\sessions\\addons\\18.0', 'd:\\odoo enterprise\\server\\odoo\\addons'] 
+2025-08-24 12:02:48,635 15160 INFO ? odoo: database: openpg@localhost:5432 
+2025-08-24 12:02:49,051 15160 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\Odoo Enterprise\thirdparty\wkhtmltopdf.exe 
+2025-08-24 12:02:49,077 15160 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-08-24 12:02:49,676 15160 INFO ? odoo.service.server: Initiating shutdown 
+2025-08-24 12:02:49,676 15160 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-08-24 12:02:55,744 16652 INFO ? odoo: Odoo version 18.0+e-20250823 
+2025-08-24 12:02:55,744 16652 INFO ? odoo: Using configuration file at D:\Odoo Enterprise\server\odoo.conf 
+2025-08-24 12:02:55,744 16652 INFO ? odoo: addons paths: ['D:\\Odoo Enterprise\\server\\odoo\\addons', 'd:\\odoo enterprise\\sessions\\addons\\18.0', 'd:\\odoo enterprise\\server\\odoo\\addons'] 
+2025-08-24 12:02:55,744 16652 INFO ? odoo: database: openpg@localhost:5432 
+2025-08-24 12:02:55,846 16652 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at D:\Odoo Enterprise\thirdparty\wkhtmltopdf.exe 
+2025-08-24 12:02:55,862 16652 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-08-24 12:02:56,048 16652 INFO ? odoo.service.server: HTTP service (werkzeug) running on XPS-15-9510:8069 
+2025-08-24 12:02:56,205 16652 INFO ? odoo.sql_db: Connection to the database failed 
+2025-08-24 12:02:56,229 16652 INFO ? odoo.sql_db: Connection to the database failed 
+2025-08-24 12:07:15,855 16652 INFO ? odoo.service.server: Initiating shutdown 
+2025-08-24 12:07:15,855 16652 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
